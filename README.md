@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Maciek Panek</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Hi,  I am passionate self-taught Front end developer based in Poland</h3>
 
 - 🌱 I’m currently learning **Next.Js**
 
